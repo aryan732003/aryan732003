@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aryan732003
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning data science 
+- 🌱 I’m currently learning data science
+- 🍁 I have learnt python,flask,statistics and learing Eda right now
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me (aryanthombre9@gmail.com)
 
