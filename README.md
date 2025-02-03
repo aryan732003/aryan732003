@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @aryan732003
-- 👀 I’m interested in data science 
-- 🌱 I’m currently learning data science
-- 🍁 I have learnt python, flask, statistics and learning Eda right now
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me (aryanthombre9@gmail.com)
-
-<!---
-aryan732003/aryan732003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Data-driven developer with a focus on database design, optimization, and ETL processes.
+- 🌱 Proficient in SQL (SQL Server & PostgreSQL), Python, Flask, and related technologies.  Experience in:
+    - Database Development: Designing efficient and scalable database systems.
+    - ETL & Data Engineering: Building robust data pipelines for data extraction, transformation, and loading.
+    - Data Analysis: Extracting insights from data to drive informed decision-making.
+- 🌱 Always looking for opportunities to collaborate learn and grow.
+- 📫 aryanthombre9@gmail.com or aryanthombree0723@gmail.com
