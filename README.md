@@ -8,24 +8,24 @@ I’m a data-driven developer passionate about building efficient, scalable, and
 🛠️ Skills & Technologies
 Databases: SQL Server, PostgreSQL, MySQL
 
-Programming: Python (Pandas, NumPy, SQLAlchemy), Flask
-
-ETL & Data Engineering: SSIS, Data Warehousing, Automated Pipelines
-
-Business Intelligence: Power BI, SSRS, SSAS, Microsoft Fabric
-
-Cloud & Automation: Azure, Azure Blob Storage, GitHub Actions, Power Automate
-
-Other: Data Modeling, Query Optimization, Data Security & Recovery
+  Programming: Python (Pandas, NumPy, SQLAlchemy), Flask
+  
+  ETL & Data Engineering: SSIS, Data Warehousing, Automated Pipelines
+  
+  Business Intelligence: Power BI, SSRS, SSAS, Microsoft Fabric
+  
+  Cloud & Automation: Azure, Azure Blob Storage, GitHub Actions, Power Automate
+  
+  Other: Data Modeling, Query Optimization, Data Security & Recovery
 
 🏆 Achievements
-Optimized SQL queries and reporting, reducing execution times by up to 35%.
-
-Automated ETL pipelines, increasing data accuracy to 99.9% and reducing manual effort by 50%.
-
-Developed real-time dashboards and reporting frameworks for business-critical analytics.
-
-Certified in Data Warehousing, Microsoft Fabric, Power BI, and Azure.
+  Optimized SQL queries and reporting, reducing execution times by up to 35%.
+  
+  Automated ETL pipelines, increasing data accuracy to 99.9% and reducing manual effort by 50%.
+  
+  Developed real-time dashboards and reporting frameworks for business-critical analytics.
+  
+  Certified in Data Warehousing, Microsoft Fabric, Power BI, and Azure.
 
 🌱 Let’s Connect & Collaborate!
 I’m always open to learning, collaborating, and contributing to impactful data-driven projects. If you have an opportunity or idea, let’s connect!
