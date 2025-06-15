@@ -14,7 +14,7 @@ Databases: SQL Server, PostgreSQL, MySQL
   
   Business Intelligence: Power BI, SSRS, SSAS, Microsoft Fabric
   
-  Cloud & Automation: Azure, Azure Blob Storage, GitHub Actions, Power Automate
+  Cloud & Automation: Azure, Azure Blob Storage, GitHub Actions, Power Automate.
   
   Other: Data Modeling, Query Optimization, Data Security & Recovery
 
