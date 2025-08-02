@@ -46,16 +46,16 @@ I specialize in building secure, scalable, and optimized data pipelines.
 
 ## 💼 Experience
 
-### 🔹 Snowflake Developer — Marico India Ltd *(Current)*
+### 🔹 Snowflake Developer — Marico India Ltd 
 - Optimized Snowflake pipelines across teams
 - Automated data validation, monitoring, and dashboarding
 - Integrated SAP, Power BI, Excel for reporting and alerting
 
-### 🔹 Freelance Developer — IOTA Analytics *(Jan–Feb 2025)*
+### 🔹 Freelance Developer — IOTA Analytics *(Jan–Mar 2025)*
 - Reduced query time by 35% on large payroll datasets
 - Designed normalized schemas & automated backups
 
-### 🔹 Intern — Abstinent Research & Technologies *(Aug 2024–Jan 2025)*
+### 🔹 Intern — SAA Consultancy *(Aug 2024–Jan 2025)*
 - Refactored 40+ SQL queries, reducing report time by 30%
 - Built indexing strategy for 100K+ row/day systems
 
