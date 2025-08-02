@@ -1,39 +1,54 @@
-👋 Hey, I’m Aryan Thombre (@aryan732003)
+# 👋 Hey, I’m Aryan Thombre (@aryan732003)
 
-Database Developer | Data Engineer | ETL Specialist
+**Snowflake Developer @ Marico India Ltd**  
+Database Developer | Data Engineer | Freelance Dev | Music Producer
 
-🚀 About Me
-I’m a data-driven developer passionate about building efficient, scalable, and reliable data solutions. My expertise lies in database design, optimization, and end-to-end ETL processes. I thrive on transforming raw data into actionable insights, empowering teams to make informed decisions.
+---
 
-🛠️ Skills & Technologies
-Databases: SQL Server, PostgreSQL, MySQL
+## 🚀 About Me
 
-  Programming: Python (Pandas, NumPy, SQLAlchemy), Flask
-  
-  ETL & Data Engineering: SSIS, Data Warehousing, Automated Pipelines
-  
-  Business Intelligence: Power BI, SSRS, SSAS, Microsoft Fabric
-  
-  Cloud & Automation: Azure, Azure Blob Storage, GitHub Actions, Power Automate.
-  
-  Other: Data Modeling, Query Optimization, Data Security & Recovery
+I’m a data-driven developer passionate about building scalable, efficient data solutions.  
+Currently working as a **Snowflake Developer** at **Marico India Ltd**, I specialize in data pipelines, database design, and automation.
 
-🏆 Achievements
-  Optimized SQL queries and reporting, reducing execution times by up to 35%.
-  
-  Automated ETL pipelines, increasing data accuracy to 99.9% and reducing manual effort by 50%.
-  
-  Developed real-time dashboards and reporting frameworks for business-critical analytics.
-  
-  Certified in Data Warehousing, Microsoft Fabric, Power BI, and Azure.
+I’m also a part-time **music producer** blending hip hop, jazz, and lo-fi.  
+My goal is to make a name in both the development and music industries through consistent, quality work.
 
-🌱 Let’s Connect & Collaborate!
-I’m always open to learning, collaborating, and contributing to impactful data-driven projects. If you have an opportunity or idea, let’s connect!
+---
 
-📧 Email: aryanthombre9@gmail.com | aryanthombree0723@gmail.com
+## 🛠️ Skills & Technologies
 
-💼 LinkedIn | GitHub
+- **Databases:** SQL Server, PostgreSQL, MySQL, Snowflake  
+- **Programming:** Python (Pandas, NumPy, SQLAlchemy), Flask  
+- **ETL:** SSIS, Data Warehousing, Pipelines  
+- **BI Tools:** Power BI, SSRS, SSAS, Microsoft Fabric  
+- **Automation:** GitHub Actions, Power Automate  
+- **Cloud:** Azure, Blob Storage  
 
-Open to new opportunities in database development, data engineering, and analytics!
+---
 
-Feel free to copy, edit, and update the links or sections as needed!
+## 🏆 Achievements
+
+- 🚀 Optimized SQL queries and reduced execution time by **35%**  
+- ⚙️ Built automated pipelines with **99.9% accuracy**  
+- 📉 Reduced manual ETL effort by **50%**  
+- 📊 Created real-time dashboards for business-critical KPIs  
+- 📜 Certified in Data Warehousing, Microsoft Fabric, Power BI & Azure  
+
+---
+
+## 🎧 Music & Projects
+
+I enjoy producing music with strong storytelling elements and deep vibes.  
+I create instrumentals, collaborate with artists, and work on passion projects that blend creativity and technology.
+
+---
+
+## 📬 Contact & Links
+
+- **Email:** [aryanthombre9@gmail.com](mailto:aryanthombre9@gmail.com) | [aryanthombree0723@gmail.com](mailto:aryanthombree0723@gmail.com)  
+- **GitHub:** [@aryan732003](https://github.com/aryan732003)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+
+---
+
+© 2025 Aryan Thombre. All rights reserved.
