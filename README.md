@@ -39,7 +39,9 @@ A dedicated and data-driven developer specializing in building secure, scalable,
 -   **Python, ML & Deep Learning – Udemy (Ongoing)**
 
 ✅ **Reduced SQL execution time by 35%** through advanced query optimization.
+
 ✅ **Automated complex data pipelines with 99.9% accuracy**, saving 20+ man-hours per week.
+
 ✅ **Delivered real-time dashboards** and recovery automation for critical business systems.
 
 ---
