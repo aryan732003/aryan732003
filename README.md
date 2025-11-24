@@ -1,7 +1,7 @@
 
 # Aryan T. (@aryan732003)
 
-**Data Engineer | Freelance Developer | Web Development | Python & Machine Learning**
+**Data Engineer | Freelancer | Python & Machine Learning | Music Producer**
 
 ---
 
